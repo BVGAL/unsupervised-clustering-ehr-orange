@@ -78,9 +78,6 @@ clinical-clustering-orange/
 │   ├── workflow.ows
 │   └── screenshot/
 │
-├── tesi-latex/
-│   ├── main.tex
-│   ├── capitoli/
-│   └── immagini/
+├── tesi.pdf
 │
 └── README.md
