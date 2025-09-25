@@ -33,17 +33,6 @@ Each folder contains:
 
 ---
 
-## 📚 Thesis
-
-The full thesis is available in the `tesi-latex/` folder, organized by chapter. It includes:
-
-- Theoretical introduction to Orange and clustering
-- Study on neuroblastoma data
-- Other case studies: Type 1 diabetes, SIRS, cardiac arrest
-- Conclusions, limitations, and future directions
-
----
-
 ## 📂 Repository Structure
 
 ```plaintext
