@@ -1,65 +1,50 @@
 # Clinical Clustering with Orange Data Mining
 
-Questo repository contiene tutti i progetti e i materiali sviluppati per la tesi di laurea triennale dal titolo:
+This repository contains all the projects and materials developed for the Bachelor's thesis titled:
 
-📘 **"Applicazione di Tecniche di Clustering per l'Analisi di Patologie Mediche: Uno Studio di Data Science con Orange Data Mining"**
-
----
-
-## 🎯 Obiettivo
-
-Applicare tecniche di clustering non supervisionato, tramite l’ambiente Orange, all’analisi di dati clinici provenienti da cartelle elettroniche, con lo scopo di identificare pattern nascosti e gruppi di pazienti clinicamente rilevanti.
+📘 **"Application of Clustering Techniques for the Analysis of Medical Conditions: A Data Science Study with Orange Data Mining"**
 
 ---
 
-🧠 Strumenti utilizzati
+## 🎯 Objective
 
-Orange Data Mining
- – software visuale per analisi e machine learning
-
-Python
- – per personalizzazioni via widget Python Script
-
-scikit-learn
- – per importazione algoritmi di clustering avanzati
-
-LaTeX
- – per la redazione della tesi
-
-GitHub
- – per versionamento e backup dei file
-
- ---
-
-🔬 Progetti inclusi
-
-Ogni cartella contiene:
-
-Il dataset originale (in formato .csv)
-
-Il workflow Orange utilizzato (.ows)
-
-Le osservazioni e l’analisi dei risultati (.pdf)
-
-Screenshot del flusso di lavoro in Orange
+Apply unsupervised clustering techniques using the Orange environment to analyze clinical data from electronic health records (EHRs), with the aim of identifying hidden patterns and clinically relevant patient groups.
 
 ---
 
-📚 Tesi
+## 🧠 Tools Used
 
-La tesi completa è disponibile nella cartella tesi-latex/, suddivisa per capitoli. Include:
-
-Introduzione teorica a Orange e al clustering
-
-Studio del neuroblastoma
-
-Altri casi clinici: diabete tipo 1, SIRS, arresto cardiaco
-
-Conclusioni, limiti e proposte future
+- **[Orange Data Mining](https://orangedatamining.com/)** – visual programming software for data analysis and machine learning  
+- **[Python](https://www.python.org/)** – for customizations via the `Python Script` widget  
+- **[scikit-learn](https://scikit-learn.org/stable/)** – to import advanced clustering algorithms  
+- **[LaTeX](https://www.latex-project.org/)** – used for thesis writing and formatting  
+- **[GitHub](https://github.com/)** – for version control and project backup  
 
 ---
 
-## 📂 Contenuto della repository
+## 🔬 Included Projects
+
+Each folder contains:
+
+- The original dataset (`.csv`)
+- The Orange workflow used (`.ows`)
+- Analysis and observations in PDF format (`.pdf`)
+- Screenshots of the Orange workflow (`/screenshot`)
+
+---
+
+## 📚 Thesis
+
+The full thesis is available in the `tesi-latex/` folder, organized by chapter. It includes:
+
+- Theoretical introduction to Orange and clustering
+- Study on neuroblastoma data
+- Other case studies: Type 1 diabetes, SIRS, cardiac arrest
+- Conclusions, limitations, and future directions
+
+---
+
+## 📂 Repository Structure
 
 ```plaintext
 clinical-clustering-orange/
@@ -99,6 +84,3 @@ clinical-clustering-orange/
 │   └── immagini/
 │
 └── README.md
-
-
-
