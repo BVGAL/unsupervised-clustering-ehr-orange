@@ -12,6 +12,53 @@ Applicare tecniche di clustering non supervisionato, tramite l’ambiente Orange
 
 ---
 
+🧠 Strumenti utilizzati
+
+Orange Data Mining
+ – software visuale per analisi e machine learning
+
+Python
+ – per personalizzazioni via widget Python Script
+
+scikit-learn
+ – per importazione algoritmi di clustering avanzati
+
+LaTeX
+ – per la redazione della tesi
+
+GitHub
+ – per versionamento e backup dei file
+
+ ---
+
+🔬 Progetti inclusi
+
+Ogni cartella contiene:
+
+Il dataset originale (in formato .csv)
+
+Il workflow Orange utilizzato (.ows)
+
+Le osservazioni e l’analisi dei risultati (.pdf)
+
+Screenshot del flusso di lavoro in Orange
+
+---
+
+📚 Tesi
+
+La tesi completa è disponibile nella cartella tesi-latex/, suddivisa per capitoli. Include:
+
+Introduzione teorica a Orange e al clustering
+
+Studio del neuroblastoma
+
+Altri casi clinici: diabete tipo 1, SIRS, arresto cardiaco
+
+Conclusioni, limiti e proposte future
+
+---
+
 ## 📂 Contenuto della repository
 
 ```plaintext
@@ -52,3 +99,6 @@ clinical-clustering-orange/
 │   └── immagini/
 │
 └── README.md
+
+
+
