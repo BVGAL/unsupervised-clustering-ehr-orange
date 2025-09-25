@@ -78,6 +78,4 @@ clinical-clustering-orange/
 │   ├── workflow.ows
 │   └── screenshot/
 │
-├── tesi.pdf
-│
 └── README.md
